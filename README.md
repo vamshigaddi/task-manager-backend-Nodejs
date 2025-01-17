@@ -181,7 +181,10 @@ Authorization: Bearer <jwt_token>
 }
 ```
 ## Deployed URL:
-The backend system is deployed and accessible at the following base URL:
+**Render**: [Cloud Platform](https://render.com/)
+- Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth.
+
+The backend system is deployed on the render cloud platform and accessible at the following base URL:
 ```
 https://task-manager-jgv8.onrender.com
 ```
